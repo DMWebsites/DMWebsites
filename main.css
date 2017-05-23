@@ -1,0 +1,14 @@
+nav ul {
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    list-style: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}

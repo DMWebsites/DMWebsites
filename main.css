@@ -1,6 +1,13 @@
+/*TODO:
+1. Make a wrapper that is responsive for mobile and website using media queries. 
+*/
+
+wrapper {}
+
 nav ul {
     text-align: center;
 }
+
 nav ul li {
     display: inline;
     list-style: none;
